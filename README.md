@@ -8,7 +8,7 @@
 🔹 With a Mechanical Engineering background from NBKRIST, the transition to technology emphasized our adeptness in digital asset management and content strategy. Collaborating with multifaceted teams, our work fortified the digital footprint, fueling the company's digital evolution.
 
 ## Socials:
-https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
+https://www.linkedin.com/in/govardhan-bandi-415a2096?trk=universal-search-cluster
 
 ## Tech Stack:
 - **Languages**: Python, JavaScript, R, SQL
