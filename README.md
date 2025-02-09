@@ -1,43 +1,16 @@
-👋 Hi, I’m @Bandi Govardhan 
+💫 About Me:
+
+# 💫 About Me:<br>🔭 I’m currently diving deep into **AEM Content Management** while also expanding my skills in **Generative AI** and **Machine Learning**.  <br>👯 I’m passionate about collaborating on **AI-driven projects**, **dynamic web development**, and **innovative solutions in Content Management Systems**.  <br>🤝 I’m always up for discussing ways to improve **content strategies**, creating intuitive **user experiences**, and optimizing **AEM workflows**.  <br>🌱 I'm constantly learning and pushing my boundaries with **NLP**, **AI techniques**, and exploring new ways to integrate tech with creativity.  <br>💬 **Let’s chat about**: How **Generative AI** is shaping the future of content, tips for creating amazing **AEM experiences**, or how **Prompt Engineering** is a game-changer.  <br>⚡ **Fun fact**: I once debugged code so deep into the night that the only thing keeping me going was a cup of coffee and the thought of my next breakthrough moment—turns out the real bug was just a missing comma!<br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/govardhan-bandi-415a2096?trk=universal-search-cluster) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:govardhanbandi21@gmail.com) 
 
-## About Me:
-🔹 Our team at EY championed Adobe Experience Manager, propelling web content to align with strategic business objectives. Specializing in AI and prompt engineering, we catalyzed SEO optimization, fostering enhanced search visibility and user engagement.
-
-🔹 With a Mechanical Engineering background from NBKRIST, the transition to technology emphasized our adeptness in digital asset management and content strategy. Collaborating with multifaceted teams, our work fortified the digital footprint, fueling the company's digital evolution.
-
-## Socials:
-https://www.linkedin.com/in/govardhan-bandi-415a2096?trk=universal-search-cluster
-
-## Tech Stack:
-- **Languages**: Python, JavaScript, R, SQL
-- **AI & Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Keras, OpenAI API, Hugging Face
-- **Prompt Engineering**: Natural Language Processing (NLP), GPT-3, GPT-4, Text Generation Models
-- **Frameworks & Libraries**: Flask, Django, FastAPI, OpenCV
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools**: Git, Docker, Jupyter Notebooks, Colab, Postman, VS Code, PyCharm
-- **Platforms**: AWS, Google Cloud, Azure, IBM Watson, Linux
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/govardhanbandi) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@GovardhanBandi) 
 
-## Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&show_icons=true&hide_title=true)
 
-## GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your_github_username&theme=dark)
-
-## Popular Repositories:
-[Repository 1](https://github.com/your_github_username/repository1)  
-[Repository 2](https://github.com/your_github_username/repository2)  
-[Repository 3](https://github.com/your_github_username/repository3)
-
-## You can help me by donating:
-[Buy me a coffee](your_donation_link) | [PayPal](your_paypal_link)
-
-<!---
-Govardhan-Bandi/Govardhan-Bandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
