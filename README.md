@@ -26,8 +26,10 @@
 
 # 🎖️ Certifications
 
-- [Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/0363e16fed9cba3ab440809696cb6cd6ae002c986b41709abeb274a53f531580) - Completed a certification course on Generative AI, covering foundational concepts and applications.
+- 1. [Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/0363e16fed9cba3ab440809696cb6cd6ae002c986b41709abeb274a53f531580) - Completed a certification course on Generative AI, covering foundational concepts and applications.
 
+- 2. [TechGig Skill Test Certificate](https://www.techgig.com/skilltest/certificate/payment/success?order_id=akJtL1dlL2NpLzZsN0l4MlhXM3RpUT09)  
+  Successfully completed a skill test and earned a certificate from **TechGig**.
 # 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Govardhan-Bandi&show_icons=true&count_private=true&hide=prs&theme=dark)
 ## Most Used Languages
