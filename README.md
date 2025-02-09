@@ -5,10 +5,10 @@
 ## About Me:
 🔹 Our team at EY championed Adobe Experience Manager, propelling web content to align with strategic business objectives. Specializing in AI and prompt engineering, we catalyzed SEO optimization, fostering enhanced search visibility and user engagement.
 
-With a Mechanical Engineering background from NBKRIST, the transition to technology emphasized our adeptness in digital asset management and content strategy. Collaborating with multifaceted teams, our work fortified the digital footprint, fueling the company's digital evolution.
+🔹 With a Mechanical Engineering background from NBKRIST, the transition to technology emphasized our adeptness in digital asset management and content strategy. Collaborating with multifaceted teams, our work fortified the digital footprint, fueling the company's digital evolution.
 
 ## Socials:
-[Facebook](your_facebook_url) | [Instagram](your_instagram_url) | [LinkedIn](your_linkedin_url) | [Medium](your_medium_url) | [Twitter](your_twitter_url)
+https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
 
 ## Tech Stack:
 - **Languages**: Python, JavaScript, R, SQL
